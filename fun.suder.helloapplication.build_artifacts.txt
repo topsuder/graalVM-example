@@ -1,0 +1,3 @@
+[EXECUTABLE]
+fun.suder.helloapplication
+
